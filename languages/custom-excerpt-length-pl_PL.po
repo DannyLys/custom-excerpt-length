@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Excerpt Length\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2));\n"
+"X-Generator: Poedit 2.3\n"
+
+#: custom-excerpt-length.php:22
+msgid "Excerpt Length"
+msgstr "Długość fragmentu"
+
+#: custom-excerpt-length.php:26
+msgid "Excerpt Length (in words)"
+msgstr "Długość fragmentu (w słowach)"
+
+#: custom-excerpt-length.php:32
+msgid "Set the length of post excerpts:"
+msgstr "Ustaw długość fragmentu wpisów:"

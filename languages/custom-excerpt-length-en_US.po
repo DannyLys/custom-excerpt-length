@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Excerpt Length\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: custom-excerpt-length.php:22
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: custom-excerpt-length.php:26
+msgid "Excerpt Length (in words)"
+msgstr "Excerpt Length (in words)"
+
+#: custom-excerpt-length.php:32
+msgid "Set the length of post excerpts:"
+msgstr "Set the length of post excerpts:"
