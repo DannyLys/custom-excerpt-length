@@ -29,8 +29,8 @@ Contributions to the Custom Excerpt Length plugin are welcome! If you have any b
 
 ## License
 
-This plugin is licensed under the [GPL-2.0 License](LICENSE.txt).
+This plugin is licensed under the [GPL-2.0 License](LICENSE_more.txt).
 
 ## Support
 
-For any questions or support regarding the Custom Excerpt Length plugin, you can contact us through the [issue tracker](https://github.com/yourusername/custom-excerpt-length/issues) or reach out to the author, [Your Name](https://yourwebsite.com).
+For any questions or support regarding the Custom Excerpt Length plugin, you can contact us through the [issue tracker](https://github.com/yourusername/custom-excerpt-length/issues) or reach out to the author, [Daniel Lyszczek](https://daniellyszczek.com/).
